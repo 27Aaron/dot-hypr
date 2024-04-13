@@ -1,1 +1,1 @@
-# This is My Hyprland Dotfiles.
+# This is My Hyprland Config.
